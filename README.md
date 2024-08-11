@@ -1,4 +1,4 @@
-## Abdulrahman - Data Scientist
+## Abdulrahman Mostafa - Data Scientist
 
 I am Abdulrahman, a Data Scientist with a diploma in Data Science from Epsilon AI and a strong academic background in Computer Science and Artificial Intelligence, with graduation expected in 2025.
 
